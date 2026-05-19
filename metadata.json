@@ -1,0 +1,6 @@
+{
+  "name": "StackLang VM",
+  "description": "An interactive CS educational web companion simulating a compiler and a stack-based virtual machine step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
